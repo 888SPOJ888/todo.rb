@@ -1,0 +1,5 @@
+1 crear archivo
+2 ejecutar comando status
+3 ejecutar git add
+4 ejecutar gti commit -m "comentario"
+5 git push
